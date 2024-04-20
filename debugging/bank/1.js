@@ -12,5 +12,8 @@ function isValueFive(n) {
     return false
 }
 
-isValueFive(5)
+console.log(isValueFive("5"))
 
+//What I did: changed the parameter to string
+// What I expected. Make sure you include your prediction here: Expected to return true
+// What actually happened: It returned true
